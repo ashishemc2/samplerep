@@ -3,4 +3,4 @@ bcd
 i:qw
 :wq
 i
-i
+changed sample2 but not adding it to git
