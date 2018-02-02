@@ -1,2 +1,1 @@
-this is a sample txt file
-
+sample text in new dev branch
