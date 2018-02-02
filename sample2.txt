@@ -1,0 +1,6 @@
+bcd
+:wq
+i:qw
+:wq
+i
+i
